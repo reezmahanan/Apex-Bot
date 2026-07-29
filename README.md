@@ -39,7 +39,7 @@ Here is a preview of the premium, glassmorphic UI designed for the help desk:
 ## 📂 File Structure
 
 ```
-c:\Users\HANAN\Downloads\ChatBot\
+Apex-Bot/
 ├── index.html       # Sidebar menu, active panel views, FAQs, and ticket forms
 ├── styles.css       # Design tokens, theme variables, accordion animations, and layouts
 ├── chatbot-data.js  # Hierarchical decision tree nodes and keyword dictionary mappings
