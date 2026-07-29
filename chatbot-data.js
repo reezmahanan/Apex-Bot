@@ -5,7 +5,7 @@
  */
 
 const chatbotData = {
-  collegeName: "Apex University of Sri Lanka",
+  collegeName: "Apex - University Help Desk Bot",
   
   // The decision tree nodes
   nodes: {
@@ -94,7 +94,7 @@ const chatbotData = {
     },
     "tuition_fees_lkr": {
       title: "Tuition Fees & Payments",
-      message: "Semester tuition fees must be paid to the university bank accounts at **Bank of Ceylon (BOC)** or **People's Bank** using the deposit slips provided.\n\n• **BOC Account No:** `8874321` (Apex University Account)\n• **e-Payment:** Credit cards are accepted via the Student Portal online billing system.",
+      message: "Semester tuition fees must be paid to the university bank accounts at **Bank of Ceylon (BOC)** or **People's Bank** using the deposit slips provided.\n\n• **BOC Account No:** `8874321` (University Fees Account)\n• **e-Payment:** Credit cards are accepted via the Student Portal online billing system.",
       options: ["mahapola_scholarship", "student_loan_scheme", "mahapola_aid"]
     },
 

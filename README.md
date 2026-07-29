@@ -1,6 +1,6 @@
-# Apex University Help Desk Chatbot (Non-AI)
+# Apex - University Help Desk Chatbot (Non-AI)
 
-A highly polished, premium client-side web application designed as a student support help desk for **Apex University of Sri Lanka**. It runs entirely on standard browser APIs without external server dependencies, databases, or AI models.
+A highly polished, premium client-side web application designed as a university student support assistant named **Apex**. It runs entirely on standard browser APIs without external server dependencies, databases, or AI models, tailored for Sri Lankan higher education systems.
 
 ---
 
